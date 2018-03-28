@@ -22,9 +22,9 @@
 #pragma mark Settings
 
 // TODO: These values should be taken from IDEFileTextSetting.
-- (NSUInteger)xvim_indentWidth { return 4; }
+- (NSUInteger)xvim_indentWidth { return 2; }
 
-- (NSUInteger)xvim_tabWidth { return 4; }
+- (NSUInteger)xvim_tabWidth { return 2; }
 
 #pragma mark Converting between Indexes and Line Numbers
 
